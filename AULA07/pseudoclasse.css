@@ -1,0 +1,13 @@
+*{
+margin: 0px;
+padding: 0px;
+font-size: 62,5%;
+}
+h1:hover{font-style: normal;
+color: crimson;
+}
+    
+h2:hover{font-size: x-large;
+color: darkgreen;}
+h3:hover{font-family: fantasy;color: darkmagenta;
+}

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+body{
+    font-family:crossorigin ;
+    background-color: rgb(220, 239, 189);
+text-shadow:#3B88F5;
+text-align: center;
+}
+h1{
+    color: rgb(148, 165, 117);
+    align-items: center;
+    line-height: 500%;
+text-shadow: 5px 5px 4px rgb(140, 165, 116)
+}
+
+p{
+color: rgb(41, 58, 13);
+text-align: center;
+font-size: 5px 5px 10px;
+}
+img{
+    filter:drop-shadow  #3B88F5 (10px 10px 5px)
+
+}
+isabela{
+    color: rgb(105, 2, 2);
+    font-style: url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+    text-align: right;
+    padding: 50px;
+
+
+}

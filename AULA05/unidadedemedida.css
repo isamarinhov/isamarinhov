@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+}
+
+
+.box1{
+    background-color: rgb(194, 124, 159);
+    width: 250px;
+    height: 250px;
+ }
+.box2{
+background-color: rgb(195, 68, 131);
+width:50vmin;/*
+height:250px;
+}
+.box3{background-image: url(b99.jpg);
+    background-color: rgb(156, 26, 91);
+width:50vw;
+height:50vh;
+
+}

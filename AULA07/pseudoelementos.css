@@ -1,0 +1,18 @@
+*{padding: 0px;
+margin: 0px;
+font-size: 62.5%;
+}
+p::before{
+    content: 🐶;
+ color: aquamarine;
+}
+h3::after{
+    content: 😼;
+    color: aqua;
+}
+h2::firstletter{
+color: blue;
+
+
+}
+

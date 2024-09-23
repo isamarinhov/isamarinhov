@@ -1,0 +1,12 @@
+div{
+    margin:2em;
+}
+.container1{
+    border: solid 2px rgb(0, 0, 0);
+    overflow: auto;
+    float:left;
+} 
+    img{
+        border: solid 1px rgb(1, 32, 142);
+        
+    }

@@ -1,0 +1,22 @@
+.titulo {
+color:chartreuse;
+
+}
+.italico{
+    font-style: italic;
+
+    color:blueviolet
+}
+.sombra{
+    filter:drop-shadow(10px 10px 5px) #3B88F5
+#ola{
+color: rgb(149, 153, 46);
+
+}
+#eai{
+color: rgb(111, 189, 163);
+}
+#alo{
+color: blue;
+
+}
