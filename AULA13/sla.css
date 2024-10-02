@@ -1,0 +1,9 @@
+.botao{border: 1px solid silver;
+    margin: 20px;
+    padding:5px ;
+    color: #e6e6e6;
+background-color: rgb(195, 67, 180);
+font-size: 18px;
+border-radius: 5px;
+text-decoration: none;
+}

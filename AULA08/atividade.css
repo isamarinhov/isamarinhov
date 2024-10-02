@@ -1,0 +1,27 @@
+
+h1{
+color: rgb(148, 165, 117);
+    align-items: center;
+    line-height: 500%;
+text-shadow: 5px 5px 4px rgb(140, 165, 116)
+}
+
+
+
+@media screen  and (max-width:480px){
+img{
+    filter:drop-shadow  #3B88F5 (10px 10px 5px);
+    display: none;
+    
+}
+}
+
+
+
+@media screen  and (min-width:1025px){
+p{
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   font-size: 1.5em;
+}
+}

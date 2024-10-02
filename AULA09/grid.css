@@ -1,0 +1,33 @@
+.container{
+    height: 800px;
+    width: 800px;
+    border: solid 1px;
+    margin:25px auto;
+    display: flex;
+    background-color: aqua;
+    }
+
+.box{
+height: 200px;
+width: 200px;
+margin: 10px auto;
+border: solid 1 px;
+}
+
+
+.cx1{
+        background-color: aquamarine;
+        flex-grow: 1;
+}
+ .cx2{
+    background-color: blue;
+ }
+ .cx3{
+background-color: blueviolet;
+}
+/* linhamento com main axis*/
+/* flex-direction: row; */
+/* flex-direction: row-reverse;*/
+/*flex-direction:  column; 
+
+}
